@@ -7,9 +7,11 @@
     "node": "0.10.x"
   },
   "dependencies": {
+    "babel": "^5.2.6",
+    "either.js": "~0.0.1",
+    "es6-error": "^1.0.0",
     "eventemitter2": "~0.4.x",
     "lodash": "~2.x.x",
-    "node-uuid": "~1.x.x",
-    "either.js": "~0.0.1"
+    "node-uuid": "~1.x.x"
   }
 }
